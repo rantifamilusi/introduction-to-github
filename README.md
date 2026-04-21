@@ -71,6 +71,7 @@ In this course, you will:
 - Olivia Leonard - Director of Technical Account Management at Docker
 - Jeremy Lyons - Technical Account Manager at Docker
 - Edward Chik - Technical Account Manager at Docker
+- Mushthaq Rumy - Technical Account Manager at Docker
 <footer>
 
 <!--
